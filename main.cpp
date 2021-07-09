@@ -1,3 +1,10 @@
+// Kelompok Morocco Mall
+
+// Muhammad Al Frizal Deva Syach Putra - 672019199
+// Farid Arya Nugraha                  - 672019202
+// Ricky Arindra Wijaya                - 672019212
+// Ajeng Febriana Rahmawati            - 672019323
+
 #include <windows.h>
 #include <stdlib.h>
 #include <gl/glut.h>
